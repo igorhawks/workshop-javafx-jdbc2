@@ -60,7 +60,7 @@ public class DepartmentFormController implements Initializable {
 		this.service = service;
 	}
 	
-	public void subsribeDataChangeListener(DataChangeListener listener) {
+	public void subscribeDataChangeListener(DataChangeListener listener) {
 		dataChangeListeners.add(listener);
 	}
 	

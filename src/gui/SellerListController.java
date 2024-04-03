@@ -187,4 +187,5 @@ public class SellerListController implements Initializable, DataChangeListener{
 			}
 		}
 	}
+	
 }
